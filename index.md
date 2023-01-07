@@ -3,6 +3,8 @@ You can use the [editor on GitHub](https://github.com/budaca/myh5/edit/master/in
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### [另一个网站](https://github.com/budaca/myh5/edit/master/heshuo.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
